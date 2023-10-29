@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Bulelani, a final-year student at WeThinkCode_ with a passion for solving problems and building clean, maintainable software.
+
+🔭 Currently, I'm focused on:
+- 🐍 Python and ☕ Java
+- Basics of CI/CD pipelines
+- 🗃️ Basic SQL and SQLite
+- Learning web development with HTML, CSS, Flask, and Javalin
+
+👯 I enjoy collaborating with others and working in teams. I'm actively seeking opportunities to contribute my skills and grow as a software developer.
+
+
+
 <!--
 **gaboneweb/gaboneweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
