@@ -6,7 +6,7 @@ I'm Bulelani, a final-year student at WeThinkCode_ with a passion for solving pr
 - 🐍 Python and ☕ Java
 - Basics of CI/CD pipelines
 - 🗃️ Basic SQL and SQLite
-- Learning web development with HTML, CSS, Flask, and Javalin
+- 🌱 I’m currently learning web development
 
 👯 I enjoy collaborating with others and working in teams. I'm actively seeking opportunities to contribute my skills and grow as a software developer.
 
