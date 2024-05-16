@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm Bulelani, a final-year student at WeThinkCode_ with a passion for solving problems and building clean, maintainable software.
+I'm Bulelani, an individual with a passion for solving problems and building clean, maintainable software.
 
 🔭 Currently, I'm focused on:
-- 🐍 Python and ☕ Java
-- Basics of CI/CD pipelines
-- 🗃️ Basic SQL and SQLite
-- 🌱 I’m currently learning web development
+- 🐍 Python and ☕ C#
+- 🌱 I’m currently learning C# WPF, Node.js
 
 👯 I enjoy collaborating with others and working in teams. I'm actively seeking opportunities to contribute my skills and grow as a software developer.
 
